@@ -1,0 +1,11 @@
+body{
+    background-image: url(https://wallpapercave.com/wp/wp4299981.jpg);
+    background-size: cover;
+}
+
+h1,h2,h3,h4,h5{
+    text-align: center;
+    color: bisque;
+    text-shadow: 5px 5px blue;
+    font-size: 20px;1q
+}

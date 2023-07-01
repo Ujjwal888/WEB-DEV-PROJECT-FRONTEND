@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel ="stylesheet" href ="main.css">
+    </head>
+<title>
+All About Bodybuilding
+</title>
+    <body>
+        <table border = "5">
+    <tr>
+        <td><h1>WELCOME TO ALL ABOUT BODYBUILDING</h1></td>
+        </tr>
+    </table>
+    <h2> What Do You Want To Know??</h2>
+            <ul>
+                <ol>
+                    
+                    <li><a href ="https://www.muscleandstrength.com/exercises">EXERCISES</a>
+                    </li>
+                    <li><a href = "https://www.muscleandstrength.com/diet-plans">DIET</a>
+                    </li>
+                    <li>
+                        <a href = "https://www.muscleandstrength.com/workout-routines">WORKOUT</a>
+                    </li>
+                    
+                </ol>
+            </ul>
+<table border = 3>
+    <tr>
+        <form action ="https://www.instagram.com/muscleandstrength/">
+        <button>Instagram</button>
+        </form>
+    </tr>
+    <tr>
+        <form action ="https://www.youtube.com/c/muscleandstrength/videos">.
+        <button>YouTube</button>
+    </form>
+    </tr>
+</table>
+        <h3><b><u>Find Our Latest Video Here--></u></b></h3>
+        <iframe width="400" height="400" src="https://www.youtube.com/embed/466falhsXAY" title="Full Day of Eating To Get Shredded | Chris Tuttle | 2403 Calories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        
+        <h4>Want To Have A Playlist For Your Workouts??</h4>
+        <form action = "https://open.spotify.com/album/47lKL6TX4rmyHEzHqbG7Tg">
+            <button>spotify playlist</button>
+        
+        </form>
+        <br>
+        <br>
+    <table border = "7">
+            <tr>
+                <td><h5><b>!!!!WE ARE THERE TO YOU HELP YOU BECAUSE WE CARE FOR YOU!!!</b></h5></td>
+                </tr>
+        </table>
+        
+    </body>
